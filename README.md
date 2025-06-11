@@ -8,7 +8,7 @@ Built using `TextBlob` and `Colorama` during my second Codingal class. 🚀
 ## ⚙️ How to Use
 
 1. **Clone the repo**  
-   git clone https://github.com/kirishimaaaaaaaaaaaaaaaaaaaaaa/sentiment-spy.git
+   git clone https://github.com/kirishimaaaaaaaaaaaaaaaaaaaaaa/AI-mood-detector.git
    cd sentiment-spy
 Install dependencies
 
